@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Before and After Gallery of Past Projects",
+  "title": "Current and Past Projects",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
