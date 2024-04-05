@@ -1,4 +1,4 @@
-# Github Pages Gallery
+# Github Pages Gallery for https://wadelewis.com
 Host your photo/video gallery in Github pages easily using Thumbsup & Github Actions for free.
 
 ### Why this project?
